@@ -1,0 +1,4 @@
+[submodule "modules/oca/account-invoicing"]
+	path = modules/oca/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 18.0
